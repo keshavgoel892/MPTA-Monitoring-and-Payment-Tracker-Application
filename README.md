@@ -53,9 +53,6 @@ Relevant transaction data can be stored or displayed.
 Prerequisites
 Android Studio installed
 Android device or emulator
-Steps
-# Clone the repository
-git clone https://github.com/your-username/mpta-app.git
 
 # Open in Android Studio
 # Build & Run the project
